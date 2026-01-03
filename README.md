@@ -50,7 +50,7 @@ Based on the Metropolis data analysis, the following actions are recommended:
 - Public Safety Initiatives: Launch targeted awareness campaigns focusing on the primary collision types (e.g., rear-end or angle crashes) identified as the most frequent causes of injury.
 
  ## Links
- https://app.powerbi.com/view?r=eyJrIjoiOTgzYjgzYzUtNWRmYS00ODcxLWIyYjAtZGU2YzcyMzg4NDVjIiwidCI6IjllMDVmZmZjLTRiODctNGE3NS1hZDU3LWIyYjE4OWNiOTlhYiJ9
+ [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgzYjgzYzUtNWRmYS00ODcxLWIyYjAtZGU2YzcyMzg4NDVjIiwidCI6IjllMDVmZmZjLTRiODctNGE3NS1hZDU3LWIyYjE4OWNiOTlhYiJ9)
 
 
 
