@@ -2,7 +2,7 @@
 Analyzing city-wide incident data to optimize public safety responses and reduce crash severity using Power BI.
 
 ### Dashboard Preview
-![dashboard](metropolis-dashboard.png)
+![dashboard](dashboard-result.png)
 
 ##  Executive Summary
 Metropolis authorities lacked a unified, data-driven view of traffic incidents, making it difficult to correlate environmental factors with crash severity across various districts. This project integrated complex datasets including crash facts, vehicle units, and casualty demographics into a centralized Power BI dashboard.
