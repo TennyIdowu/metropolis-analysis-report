@@ -25,7 +25,7 @@ retrospective reporting to a proactive safety view that supports data-driven dec
 - Tools Used: Power BI, Power Query, and DAX.
 - Data Sourcing & Overview: The analysis utilized three primary relational datasets: Crashes_Fact, Units_involved, and People_involved.
 - Data Cleaning & Transformation (ETL):
-   -Relationship Mapping: Built a Star Schema to ensure individual casualties were correctly linked to their respective vehicles and crash events.
+   - Relationship Mapping: Built a Star Schema to ensure individual casualties were correctly linked to their respective vehicles and crash events.
    - Calculated Measures: Created DAX measures to calculate Injury Rates, Fatality Percentages, and Year-over-Year incident changes.
    - Standardization: Cleaned and standardized incident descriptions (e.g., Rear-end, Angle) and weather categories to ensure reporting accuracy.
 
